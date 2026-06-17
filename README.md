@@ -1,3 +1,10 @@
+(Part 1)	`https://github.com/Keshav-Verma-06/d2c-churn-part1-eda`
+(Part 2)	`https://github.com/Keshav-Verma-06/d2c-churn-part2-rfm`
+(Part 3)	`https://github.com/Keshav-Verma-06/d2c-churn-part3-model`
+(Part 4)	`https://github.com/Keshav-Verma-06/d2c-churn-part4-api`
+<img width="391" height="85" alt="image" src="https://github.com/user-attachments/assets/d4672a8d-8729-40bf-9563-8b26635713f0" />
+
+
 # Part 1 — Data Audit, EDA & Business Understanding
 
 D2C personal-care brand **customer churn intelligence** capstone (Part 1 of 4). This repository audits raw data, explores pre-snapshot behavior vs. churn, and documents data-quality and business findings before modeling.
