@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+eda_audit_executed.ipynb
+.DS_Store
