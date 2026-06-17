@@ -90,15 +90,6 @@ Five evidence-based hypotheses and six charts are documented in `eda_audit.ipynb
 
 ## Author notes
 
-## Push to GitHub
-
-```bash
-git init
-git add .
-git commit -m "Part 1: Data Audit, EDA & Business Understanding complete"
-git branch -M main
-git remote add origin https://github.com/Keshav-Verma-06/d2c-churn-part1-eda.git
-git push -u origin main
-```
+**Public repository:** https://github.com/Keshav-Verma-06/d2c-churn-part1-eda
 
 Do not commit secrets, API keys, or machine-specific paths.
